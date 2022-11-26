@@ -1,5 +1,5 @@
 # Experiment-2--Implementation-of-Perceptron            
-# DONE BY: Mohan raj S   212221230065
+# DONE BY: HARIHARAN.M  212221220015
 ## AIM:
 
 To implement a perceptron for classification using Python
